@@ -1,0 +1,12 @@
+{
+    "name": "tbc-tsvetomir/microsoft-calendar",
+    "authors": [
+        {
+            "name": "Tsvetomir Ignatov",
+            "email": "tsvetomir@tobecode.com"
+        }
+    ],
+    "require": {
+        "microsoft/microsoft-graph": "^1.26"
+    }
+}
